@@ -1,5 +1,4 @@
-probably reworking
-
+![](https://files.catbox.moe/1n8i3o.jpg)
 <!--
 **ozoIog1/ozoIog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
