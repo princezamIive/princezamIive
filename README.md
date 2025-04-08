@@ -1,4 +1,7 @@
-
+<p align="center">
+  no second chances.
+</p>
+<br>
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/160328216/431286992-6dad3870-5080-4888-bb28-1b26af79fbc9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDIzMTAsIm5iZiI6MTc0NDEwMjAxMCwicGF0aCI6Ii8xNjAzMjgyMTYvNDMxMjg2OTkyLTZkYWQzODcwLTUwODAtNDg4OC1iYjI4LTFiMjZhZjc5ZmJjOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwOFQwODQ2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMmNhZjlmYjMzNjMxZjE0ODNmN2U5YjVlZDI3ZmZjZWIxNjkwZmZiYjY5YTk2ZWEwNmI1MWE4YmYxZDAyNDA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.HShLp2ga3YeRGnR3HnumX8S8DBl8iqDBgoGdqhghA5I" />
 </p>
@@ -7,11 +10,12 @@
   either really social OR really anxious 
 </p>
 <p align="center">
-  c+h friendly
+  c+h please ^_^
 </p>
 <p align="center">
-   <a href=https://forsaken.atabook.org>atabook</a>
+   <a href=https://forsaken.atabook.org>atabook</a>⠀⠀ <a href=https://rentry.co/blameshed>rentry</a>
 </p>
+   
 <!--
 **ozoIog1/ozoIog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
