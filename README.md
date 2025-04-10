@@ -1,5 +1,5 @@
 <p align="center">
-  no second chances.
+  dumbest girl in the world (˶˃ᆺ˂˶)
 </p>
 <br>
 <p align="center">
