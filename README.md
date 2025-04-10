@@ -13,7 +13,7 @@
   c+h please ^_^
 </p>
 <p align="center">
-   <a href=https://forsaken.atabook.org>atabook</a>⠀⠀ <a href=https://rentry.co/blameshed>rentry</a>
+   <a href=https://forsaken.atabook.org>atabook.</a>⠀⠀–⠀ <a href=https://rentry.co/blameshed>rentry.</a>
 </p>
    
 <!--
