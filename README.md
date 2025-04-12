@@ -13,7 +13,7 @@
   c+h please ^_^
 </p>
 <p align="center">
-   <a href=https://forsaken.atabook.org>atabook.</a>⠀⠀–⠀ <a href=https://rentry.co/telcmon>rentry.</a>⠀⠀–⠀ <a href=https://en.pronouns.page/@bluudud>prns page.</a>
+   <a href=https://forsaken.atabook.org>atabook.</a>⠀⠀–⠀ <a href=https://rentry.co/telamcn>rentry.</a>⠀⠀–⠀ <a href=https://en.pronouns.page/@bluudud>prns page.</a>
 </p>
    
 <!--
